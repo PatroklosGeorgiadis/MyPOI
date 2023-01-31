@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyPOIs</string>
+
+    <string name="add_poi">Add a new POI</string>
+    <string name="search_poi">Search a POI</string>
+    <string name="view_poi">View all POI</string>
+
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search</string>
+
+    <string name="searchbar">Search here</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="Category">Category</string>
+    <string-array name="category_array">
+        <item>Home</item>
+        <item>Restaurant</item>
+        <item>Hotel</item>
+        <item>Institute</item>
+        <item>Hospital</item>
+        <item>Museum</item>
+        <item>Pharmacy</item>
+        <item>Other</item>
+    </string-array>
+</resources>
